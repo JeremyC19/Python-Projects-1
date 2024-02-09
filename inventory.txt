@@ -1,0 +1,2 @@
+Make	Model	Year	Color	Mileage
+Dodge	Challenger	2012	Red	100000
